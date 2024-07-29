@@ -1,0 +1,5 @@
+## License
+
+ 
+
+This work is licensed under the Open Database License (ODbL). See the [LICENSE](LICENSE) file for more details.
