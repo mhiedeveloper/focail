@@ -5,4 +5,4 @@ This repository contains data that is licensed under the Open Database License (
 ## License
 
 
-This work is licensed under the Open Database License (ODbL). See the [LICENSE](LICENSE) file for more details.
+This work is licensed under the Open Database License (ODbL). See the [LICENSE](LICENSE.txt) file for more details.
